@@ -193,7 +193,7 @@ cd product-analytics-tbank-travel
 ### 3. Установить необходимые библиотеки
 
 ```bash
-pip install pandas numpy matplotlib gdown jupyter
+pip install -r requirements.txt
 ```
 
 ### 4. Запустить JupyterLab
