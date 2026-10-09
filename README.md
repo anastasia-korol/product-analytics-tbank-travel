@@ -148,6 +148,9 @@
 ```text
 product-analytics-tbank-travel/
 │
+├── data/
+│   └── README.md
+│
 ├── images/
 │   ├── age_segments.png
 │   ├── income_segments.png
@@ -158,8 +161,8 @@ product-analytics-tbank-travel/
 │   └── tbank_travel_analysis.ipynb
 │
 ├── .gitignore
-└── README.md
-```
+├── README.md
+└── requirements.txt
 
 Папка `data/` создаётся локально при запуске проекта и не публикуется в GitHub.
 
